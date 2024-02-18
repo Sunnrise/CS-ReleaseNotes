@@ -56,11 +56,7 @@ class Program
 
 
         #endregion
-
-
-
-
-
+//The main difference between Switch Case and Switch Expression is Code Clarity.
         Console.WriteLine("Press any key to exit...");
         Console.ReadKey();
     }
